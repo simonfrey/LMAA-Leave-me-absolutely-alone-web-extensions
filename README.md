@@ -7,6 +7,9 @@ LMAA pins the browser favicon and title to the initial values when you first ope
 
 **Give it a go and remove this little annoyance from your live**
 
+- [Firefox Plugin](https://addons.mozilla.org/en-US/firefox/addon/lmaa-leave-me-absolutely-alone/)
+- [Chrome extension](https://chrome.google.com/webstore/detail/lkakhhcedfjekighiccmikgcfcpahbli/)
+
 For all the Germans out there: Yes, the LMAA acronym was chosen on purpose ;) 
 
 ---
