@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "LMAA - Leave me absolutely alone",
+  "version": "1.0.0",
+  "author": "Simon Frey",
+  "description": "Browser extension that prevents sites from changing the favicon or tab title to distract you and get your attention",
+  "homepage_url": "https://github.com/simonfrey/LMAA-Leave-me-absolutely-alone-web-extensions",
+
+  "icons": {
+    "48": "icons/butt_48.png",
+    "96": "icons/butt_96.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["js/leave_alone.js"]
+    }
+  ]
+}
