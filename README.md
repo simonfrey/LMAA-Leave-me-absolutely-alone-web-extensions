@@ -1,7 +1,8 @@
+![LMAA logo](./icons/butt_96.png)
+
 # LMAA - Leave me absolutely alone
 ## Browser extension that prevents sites from changing the favicon or tab title to distract you and get your attention
 
-![LMAA logo](./icons/butt.png)
 
 > I was super annoyed that several websites (Looking at you Slack/Linkedin) are trying to drag me back into their page by making the tab bar light up like snop dog on 20th of May. And don't get me started on these intercom "we miss you" messages. 
 
