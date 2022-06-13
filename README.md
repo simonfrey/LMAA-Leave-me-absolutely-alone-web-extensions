@@ -4,7 +4,7 @@
 ## Browser extension that prevents sites from changing the favicon or tab title to distract you and get your attention
 
 
-> I was super annoyed that several websites (Looking at you Slack/Linkedin) are trying to drag me back into their page by making the tab bar light up like snop dog on 20th of May. And don't get me started on these intercom "we miss you" messages. 
+> I was super annoyed that several websites (Looking at you Slack/Linkedin) are trying to drag me back into their page by making the tab bar light up like  Snoop Dogg on 4/20. And don't get me started on these intercom "we miss you" messages. 
 
 LMAA pins the browser favicon and title to the initial values when you first opened that page, persisting the state in local storage. 
 
